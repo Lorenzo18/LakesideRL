@@ -1,0 +1,27 @@
+<root>
+	<!-- LTR Wiese hinter Gebäude SF -->
+    <Tor ID="1" Modell="11313" X="-2125.3" Y="485" Z="36.1" Rot="90" Ort="San Fierro" Preis="65000" Besitzer="Keiner"></Tor>
+	<Tor ID="2" Modell="11313" X="-2118.0" Y="485" Z="36.1" Rot="90" Ort="San Fierro" Preis="65000" Besitzer="Keiner"></Tor>
+	<Tor ID="3" Modell="11313" X="-2110.7" Y="485" Z="36.1" Rot="90" Ort="San Fierro" Preis="65000" Besitzer="Keiner"></Tor>
+	<Tor ID="4" Modell="11313" X="-2103.4" Y="485" Z="36.1" Rot="90" Ort="San Fierro" Preis="65000" Besitzer="Keiner"></Tor>
+	<Tor ID="5" Modell="11313" X="-2096.1" Y="485" Z="36.1" Rot="90" Ort="San Fierro" Preis="65000" Besitzer="Keiner"></Tor>
+	<Tor ID="6" Modell="11313" X="-2088.8" Y="485" Z="36.1" Rot="90" Ort="San Fierro" Preis="65000" Besitzer="Keiner"></Tor>
+	<Tor ID="7" Modell="11313" X="-2081.5" Y="485" Z="36.1" Rot="90" Ort="San Fierro" Preis="65000" Besitzer="Keiner"></Tor>
+	
+	<Tor ID="8" Modell="11313" X="-2111.6" Y="463.1" Z="36.1" Rot="90" Ort="San Fierro" Preis="65000" Besitzer="Keiner"></Tor>
+	<Tor ID="9" Modell="11313" X="-2102.8" Y="463.1" Z="36.1" Rot="90" Ort="San Fierro" Preis="65000" Besitzer="Keiner"></Tor>
+	
+	<!-- Ultimate Mechaniker Base SF -->
+	<Tor ID="10" Modell="11313" X="-2402.4" Y="-56.5" Z="36.2" Rot="0" Ort="San Fierro" Preis="65000" Besitzer="Keiner"></Tor>
+	<Tor ID="11" Modell="11313" X="-2402.4" Y="-49.2" Z="36.2" Rot="0" Ort="San Fierro" Preis="65000" Besitzer="Keiner"></Tor>
+	<Tor ID="12" Modell="11313" X="-2402.4" Y="-41.9" Z="36.2" Rot="0" Ort="San Fierro" Preis="65000" Besitzer="Keiner"></Tor>
+	<Tor ID="13" Modell="11313" X="-2402.4" Y="-34.6" Z="36.2" Rot="0" Ort="San Fierro" Preis="65000" Besitzer="Keiner"></Tor>
+	<Tor ID="14" Modell="11313" X="-2402.4" Y="-27.3" Z="36.2" Rot="0" Ort="San Fierro" Preis="65000" Besitzer="Keiner"></Tor>
+	
+	<!-- Riesen Hangar Golden Gate SF -->
+	<Tor ID="15" Modell="16775" X="-2821.4" Y="1305.7" Z="8.8" Rot="223.74" Ort="San Fierro" Preis="200000" Besitzer="Keiner"></Tor>
+	<Tor ID="16" Modell="16775" X="-2750.3" Y="1254.0" Z="13.7" Rot="223.74" Ort="San Fierro" Preis="200000" Besitzer="Keiner"></Tor>
+	
+	<!-- Nähe Strant LS -->
+	<Tor ID="17" Modell="11313" X="180.2" Y="-1631.4" Z="15.6" Rot="38.5" Ort="Los Santos" Preis="40000" Besitzer="Keiner"></Tor>
+</root>
